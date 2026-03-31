@@ -4,7 +4,7 @@ My name is Anika, and I'm an Aerospace Engineering 🚀 Grad student at Georgia 
 
 
 - 🔭 I’m currently working on a project involving Control Equivalent Gust Input
-- 🌱 I’m currently learning Deep Neural Network Architecture and AI-powered Control System
+- 🌱 I’m currently learning Deep Neural Network Architecture and AI-powered Control Systems
 - ⚡ I’m also developing a controller framework involving Feedback Linearization and LQR
 
 
