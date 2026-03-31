@@ -1,6 +1,6 @@
 ## Welcome To My Profile! 🤗
 
-My name is Anika, and I'm an Aerospace Engineering 🚀 grad student at Georgia Tech
+My name is Anika, and I'm an Aerospace Engineering 🚀 Grad student at Georgia Tech
 
 
 - 🔭 I’m currently working on a project involving Control Equivalent Gust Input
